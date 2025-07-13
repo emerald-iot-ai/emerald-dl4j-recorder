@@ -23,11 +23,6 @@
 			<artifactId>testng</artifactId>
 			<version>7.6.1</version>
 		</dependency>
-		<dependency>
-			<groupId>net.sf.testngdatabind</groupId>
-			<artifactId>testng-databinding-text</artifactId>
-			<version>3.0.0</version>
-		</dependency>
 	</dependencies>
 	
 	<build>
